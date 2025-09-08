@@ -1,7 +1,0 @@
-C:\wipro\day4\extension example\extension example\bin\Debug\extension example.exe.config
-C:\wipro\day4\extension example\extension example\bin\Debug\extension example.exe
-C:\wipro\day4\extension example\extension example\bin\Debug\extension example.pdb
-C:\wipro\day4\extension example\extension example\obj\Debug\extensionexample1.csproj.AssemblyReference.cache
-C:\wipro\day4\extension example\extension example\obj\Debug\extensionexample1.csproj.CoreCompileInputs.cache
-C:\wipro\day4\extension example\extension example\obj\Debug\extension example.exe
-C:\wipro\day4\extension example\extension example\obj\Debug\extension example.pdb

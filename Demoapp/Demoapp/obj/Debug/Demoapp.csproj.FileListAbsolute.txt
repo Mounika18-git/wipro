@@ -1,8 +1,0 @@
-C:\wipro\day3\Demoapp\Demoapp\bin\Debug\Demoapp.exe.config
-C:\wipro\day3\Demoapp\Demoapp\bin\Debug\Demoapp.exe
-C:\wipro\day3\Demoapp\Demoapp\bin\Debug\Demoapp.pdb
-C:\wipro\day3\Demoapp\Demoapp\obj\Debug\Demoapp.csproj.AssemblyReference.cache
-C:\wipro\day3\Demoapp\Demoapp\obj\Debug\Demoapp.csproj.CoreCompileInputs.cache
-C:\wipro\day3\Demoapp\Demoapp\obj\Debug\Demoapp.exe
-C:\wipro\day3\Demoapp\Demoapp\obj\Debug\Demoapp.pdb
-C:\wipro\day3\Demoapp\Demoapp\obj\Debug\Demoapp.exe.config
